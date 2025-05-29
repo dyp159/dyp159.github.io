@@ -22,7 +22,7 @@ repository               : "dyp159/dyp159.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_small.png"
   name             : "Yipeng Deng 邓奕鹏"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student at IIIS, Tsinghua University."
