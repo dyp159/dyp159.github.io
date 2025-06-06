@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student from [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University. My research interests primarily focus on embodied AI, specifically RL-related robotics. I am advised by Prof. [Li Yi](https://ericyi.github.io/) in IIIS. I have also had a wonderful time as an intern with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/) in 2025 Spring. I am now focusing on humanoid whole body control in both simulation and real world. I hope to build an AI systems—through robots or other media—that can make a visible impact on the real world.
+I am a third-year undergraduate student from [IIIS](https://iiis.tsinghua.edu.cn/), Tsinghua University. My research interests primarily focus on embodied AI, specifically RL-related robotics. I am advised by Prof. [Li Yi](https://ericyi.github.io/) in IIIS, working on Physics-based Human-Object-Interaction Motion Synthesis. I have also had a wonderful time as an intern with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/) in the 2025 spring and summer, exploring robotics with multimodal large language model. I am now working on humanoid whole body control in both simulation and real world. I hope to build an AI systems—through robots or other media—that can make a visible impact on the real world.
 
 ## Publication
 
